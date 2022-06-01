@@ -25,8 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
+For Mobile 
 ![For mobile](./mySolutionImage/mobile.png)
+
+For Desktop 
 ![For desktop](./mySolutionImage/desktop.png)
+
+Hover states for interactive elements
 ![Effects for interactive elements in hover states](./mySolutionImage/orderSummary.gif)
 
 ### Links
