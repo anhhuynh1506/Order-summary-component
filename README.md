@@ -38,6 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/anhhuynh1506/Order-summary-component.git)
+- Live site URL: [](https://anhhuynh1506.github.io/Order-summary-component/)
 
 ## My process
 
